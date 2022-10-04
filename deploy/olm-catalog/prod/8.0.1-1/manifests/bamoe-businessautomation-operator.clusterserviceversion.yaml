@@ -399,7 +399,7 @@ spec:
     operated-by: bamoe-businessautomation-operator.8.0.1-1
   links:
   - name: Product Page
-    url: 'https://ibm.com '
+    url: https://ibm.com
   - name: Documentation
     url: https://www.ibm.com/docs/en/ibamoe
   maintainers:
